@@ -31,7 +31,7 @@ The dataset shows a non-linear relationship between income and spending, making 
 | Degree 3    | 56949.34   | 60967.37   |
 | Degree 10   | 110975.42  | 119764.02  |
 
-👉 Degree 3 provides the best balance between bias and variance.
+Degree 3 provides the best balance between bias and variance.
 
 ---
 
@@ -115,4 +115,4 @@ This project clearly demonstrates:
 - Degree 3 → Optimal model  
 - Degree 10 → Overfitting  
 
-👉 The best model is the one that balances bias and variance effectively.
+The best model is the one that balances bias and variance effectively.
