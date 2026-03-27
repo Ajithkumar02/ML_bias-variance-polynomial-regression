@@ -1,4 +1,5 @@
-#Bias-Variance Tradeoff using Polynomial Regression
+Bias-Variance Tradeoff using Polynomial Regression
+
 Overview
 This project demonstrates the bias-variance tradeoff using polynomial regression on a customer dataset. The goal is to analyse how model complexity affects prediction performance.
 
