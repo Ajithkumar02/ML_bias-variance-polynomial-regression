@@ -33,7 +33,7 @@ Error Curve
 
 How to Run
 Clone repository:
-git clone https://github.com/your-username/bias-variance-polynomial-regression
+git clone https://github.com/your-username/ML_bias-variance-polynomial-regression
 Install dependencies:
 pip install -r requirements.txt
 Run notebook:
